@@ -62,6 +62,8 @@ DICAS:
 8. [10pts] Escreva a seção seguinte (*Considerações Gerais*) com instruções de como executar o projeto, o banco de dados a ser usado, detalhamentos, etc;
 9. [10pts] Projeto buildando com sucesso.
 
+Sua entrega deverá ser feita por meio de um repositório github (acessível pelo professor) ou diretório .zip enviado através de canais de comunicação da instituição ou email.
+
 ## Considerações Gerais
 
 - *A ser preenchido*
