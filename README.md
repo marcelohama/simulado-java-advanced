@@ -1,4 +1,4 @@
-# Simulado para o Check-Point 2 | FIAP
+# Simulado Avaliativo | Java Advanced
 
 Este repositório traz a estrutura base na qual deve ser implementado o projeto de simulação de avaliação para o curso de Java Advanced com Spring Framework.
 
@@ -43,8 +43,33 @@ Este projeto possui uma estrutura base para codificação, na qual temos já pre
 - Arquivo *postman_collection* com exemplos de registros de chamadas;
 - Este arquivo *README* com instruções gerais.
 
-Você deve seguir as instruções presentes na próxima seção para realizar este simulado.
+Você deve seguir as instruções presentes na próxima seção e realizar cada uma de suas tarefas para concluir este simulado.
 
-## Temas do Simulado
+DICAS:
+- Seja uma pessoa detalhista. Cada detalhe vale ponto!
+- Recorra aos materiais das aulas anteriores e à internet!
+- Cada tarefa será avaliada de forma independente (não existem pré-requisitos de uma para outra)!
 
-1. 
+## Tarefas do Simulado
+
+1. [20pts] Observe os exemplos dos métodos já implementados no controller e crie as chamadas para o conjunto completo CRUD para a entidade Owner;
+2. [10pts] Crie ao menos 1 consulta filtrada por meio de JPQL (sugestão: busca por nome);
+3. [10pts] Crie ao menos 1 consulta filtrada por meio de @Query com SQL nativo (sugestão: use um SELECT comum em cima de uma tabela qualquer);
+4. [10pts] Eleve a API fornecida pelo *OwnerController* a um nível de Richardson igual ou superior a 2. Para a criação de um novo registro, use o @RequestBody;
+5. [10pts] Implemente uma entidadade adicional, além da *Owner* e *Blog*, e que tenha uma relação de 1:1 com *Owner* (sugestão: *Address*, onde 1 *Owner* mora em apenas 1 *Address*);
+6. [10pts] Complete o arquivo *Simulado.postman_collection* com as chamadas do CRUD criado;
+7. [10pts] Crie uma consulta paginada para a entidade *Blog* no *OwnerController*. Use um tamanho de página de 5 registros;
+8. [10pts] Escreva a seção seguinte (*Considerações Gerais*) com instruções de como executar o projeto, o banco de dados a ser usado, detalhamentos, etc;
+9. [10pts] Projeto buildando com sucesso.
+
+## Considerações Gerais
+
+- *A ser preenchido*
+- *A ser preenchido*
+- *A ser preenchido*
+- 
+
+1. *A ser preenchido*
+2. *A ser preenchido*
+3. *A ser preenchido*
+4. 
